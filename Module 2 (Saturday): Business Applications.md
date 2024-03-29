@@ -14,7 +14,6 @@
 *Optional Fun Stuff*  
 [How to Make an AI Read Your Handwriting (LAB)](https://www.pbs.org/video/how-to-make-an-ai-read-your-handwriting-lab-5-oh9flk/)  
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
-
 [Cats vs. Dogs? Lets Make an AI to Settle This by CrashCourse AI](https://www.pbs.org/video/cats-vs-dogs-lets-make-an-ai-to-settle-this-lab-19-rp1lwa/)  
 
 **Class 10:	Language Models**  
