@@ -9,7 +9,7 @@
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
 [Yann Lecun's CNN demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)  
 [2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE)  
-[How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
+[Teachable Machine](https://teachablemachine.withgoogle.com/train)  
 
 *Optional Fun Stuff*  
 [How to Make an AI Read Your Handwriting (LAB)](https://www.pbs.org/video/how-to-make-an-ai-read-your-handwriting-lab-5-oh9flk/)  
@@ -18,7 +18,7 @@
 
 **Class 10:	Language Models**  
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
-
+[How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
 *Optional Fun Stuff*  
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
   
