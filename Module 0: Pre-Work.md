@@ -5,7 +5,7 @@
 
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/): This article explains how Zillow transformed their classic approach to Zestimate with Neural Network models.
 
-[AI transformation playbook: How to lead your company into the AI era](https://wmconnect.wm.edu/courses/2276/files/733668?wrap=1): This playbook published by Landing AI draws on insights gleaned from their work with the Google Brain team and the Baidu AI Group as they transformed these companies into leaders in the AI era. 
+[AI transformation playbook: How to lead your company into the AI era](https://landing.ai/case-studies/ai-transformation-playbook/): This playbook published by Landing AI draws on insights gleaned from their work with the Google Brain team and the Baidu AI Group as they transformed these companies into leaders in the AI era. 
 
 *Optional References*  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
