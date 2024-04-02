@@ -1,3 +1,3 @@
-**Monday 2 (Saturday): Business Applications
+**Monday 2 (Saturday): Business Applications**
 
 Coming Soon
