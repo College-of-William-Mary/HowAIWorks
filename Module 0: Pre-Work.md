@@ -1,7 +1,7 @@
 **Complete these readings/videos before Friday class meeting**  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/): This interactive reading published by Amazon's Machine Learning University provides an accessible introduction to neural networks, which have revolutionized the field of artificial intelligence and are the backbone of popular algorithms today, such as ChatGPT, Stable-Diffusion, and many others.   
 
-[How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI) 
+[How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI): An entirely non-technical explanation of Large Language Models.
 
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/): This article explains how Zillow transformed their classic approach to Zestimate with Neural Network models.
 
