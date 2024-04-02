@@ -7,7 +7,7 @@
 
 [AI transformation playbook: How to lead your company into the AI era](https://wmconnect.wm.edu/courses/2276/files/733668?wrap=1): This playbook published by Landing AI draws on insights gleaned from their work with the Google Brain team and the Baidu AI Group as they transformed these companies into leaders in the AI era. 
 
-*Optional References*
+*Optional References*  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
 
