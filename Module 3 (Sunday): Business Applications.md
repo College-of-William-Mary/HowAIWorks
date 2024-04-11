@@ -7,4 +7,4 @@ Guest lecture by Przemek Praszczalek, Director, Identity Products & Innovation, 
 
 **Class 13:Team Work Time + Lunch**  
 
-**Class 14: What's Next?  
+**Class 14: What's Next?**  
