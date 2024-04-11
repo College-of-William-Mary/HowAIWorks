@@ -1,6 +1,7 @@
 **Module 2 (Saturday)**  
 
 **Class 5: AI Business Canvas**  
+[Lecture: AI & Business Applications](https://www.dropbox.com/scl/fi/li79nbxyrsdjf8scevkbo/02-AI-Business-Applications.pptx?rlkey=2tc39us5y7su07b7cptolidmf&dl=0)  
 
 **Class 6: Computer Vision**  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
