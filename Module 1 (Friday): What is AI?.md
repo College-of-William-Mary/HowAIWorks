@@ -1,4 +1,4 @@
-**Module 1 (Friday): What is AI?**  
+**Module 1 (Friday)**  
 
 **Class 1: Course Introduction**  
 [Lecture: Course Intro](https://www.dropbox.com/scl/fi/t6vg4nazrype854hzm6ge/00-Special-Topics-AI-Course-Introduction.pptx?rlkey=pyifny9e6l393lxp7t6afg4kh&dl=0)  
