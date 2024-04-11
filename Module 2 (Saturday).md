@@ -33,7 +33,7 @@ Team 9: MH2003
 [Manuela Veloso & RoboCup](https://www.youtube.com/watch?v=tAd1IeovyY8)  
 [Google DeepMind: Ground-breaking AlphaGo masters the game of Go](https://www.youtube.com/watch?v=SUbqykXVx0A)  
 [The Computer that Mastered Go](https://www.youtube.com/watch?v=g-dKXOlsf98)  
-[Lecture: Reinforcement Learning]
+[Lecture: Reinforcement Learning](https://www.dropbox.com/scl/fi/ayh4phgcp73f4bu45f694/10-RL.pptx?rlkey=lcyszq35n7uuuk6ycm7jmn24d&dl=0)  
 
 *References on Language Models*  
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
