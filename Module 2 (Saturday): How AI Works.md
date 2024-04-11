@@ -9,15 +9,15 @@
 [Teachable Machine](https://teachablemachine.withgoogle.com/train) 
 
 **Class 7 & 8	Team Work Time + Lunch**  
-See team project instructions in Blackboard
-Team 1: MH1012
-Team 2: MH1015
-Team 3: MH1016
-Team 4: MH1079
-Team 5: MH1080
-Team 6: MH1081
-Team 7: MH1083
-Team 8: MH1090
+See team project instructions in Blackboard  
+Team 1: MH1012  
+Team 2: MH1015  
+Team 3: MH1016  
+Team 4: MH1079  
+Team 5: MH1080  
+Team 6: MH1081  
+Team 7: MH1083  
+Team 8: MH1090  
 Team 9: MH2003
 
 **Class 9: Language Models & Recommenders**  
