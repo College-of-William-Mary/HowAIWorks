@@ -16,8 +16,8 @@ Complete Graded JASP Assignment in Blackboard before deadline.
 **Class 4: AI Transforming Business and Personal Use**  
 [5-6pm Cortney Doucette, Product Marketing Manager, Microsoft](https://www.meetup.com/williamsburg-tech-meetup-group/events/299879294/)  
 
-*References*
-[Deep Learning by John D. Kelleher](https://proxy.wm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=cookie,ip,url,shib&db=nlebk&AN=2234376&site=ehost-live&scope=site)  
+*References*  
+[Deep Learning by John D. Kelleher, available digitally through W&M library](https://proxy.wm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=cookie,ip,url,shib&db=nlebk&AN=2234376&site=ehost-live&scope=site)  
 [Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
 
 *Optional Fun Stuff*  
