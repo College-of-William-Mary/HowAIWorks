@@ -10,7 +10,7 @@
 [Graded Assignment: Zestimate Worksheet](https://docs.google.com/document/d/1D4Kg-iPrrpMb3dJS_9m4Y68yYeM0FtS3tTxt_KZGWaA/edit)  
 
 **Class 3: [JASP](https://jasp-stats.org/how-to-use-jasp/)**  
-[JASP In-Class Exercise](https://docs.google.com/document/d/1MoNavSD08r4TSYkjyO4iZ4AGGG-wJ84H7P7K5doi5qk/edit)  
+[JASP In-Class Exercise: Predicting Customer Churn](https://docs.google.com/document/d/1MoNavSD08r4TSYkjyO4iZ4AGGG-wJ84H7P7K5doi5qk/edit)  
 Complete Graded JASP Assignment in Blackboard before deadline.
 
 **Class 4: AI Transforming Business and Personal Use**  
