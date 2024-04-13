@@ -45,7 +45,7 @@ Team 9: MH2003
 [Recommended For You: How machine learning helps you choose what to consume next by Jenifer Wei](https://sitn.hms.harvard.edu/flash/2017/recommended-machine-learning-helps-choose-consume-next/)  
 [Recommendation Systems, Google's Advanced Course on Machine Learning](https://developers.google.com/machine-learning/recommendation)  
 
-*References on Reinforcement Learning*
+*References on Reinforcement Learning*  
 [Bugbee, E., Kamat, A., & Wilber, J. (n.d.). Reinforcement learning: A gentle introduction to learning from decisions, MLU-Explain.](https://mlu-explain.github.io/reinforcement-learning/)  
 [Amadio, B. 2020 Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/) 
 
