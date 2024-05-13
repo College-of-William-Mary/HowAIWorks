@@ -3,6 +3,8 @@
 
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI): An entirely non-technical explanation of Large Language Models.
 
+[How Does Chatbot Really Work?](https://www.nytimes.com/2023/03/28/technology/ai-chatbots-chatgpt-bing-bard-llm.html)  
+
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/): This article explains how Zillow transformed their classic approach to Zestimate with Neural Network models.
 
 [AI transformation playbook: How to lead your company into the AI era](https://landing.ai/case-studies/ai-transformation-playbook/): This playbook published by Landing AI draws on insights gleaned from their work with the Google Brain team and the Baidu AI Group as they transformed these companies into leaders in the AI era. 
