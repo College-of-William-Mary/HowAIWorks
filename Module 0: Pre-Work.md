@@ -3,7 +3,9 @@
 
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI): An entirely non-technical explanation of Large Language Models.
 
-[How Does Chatbot Really Work? by New York Times](https://www.nytimes.com/2023/03/28/technology/ai-chatbots-chatgpt-bing-bard-llm.html)  
+[How Does Chatbot Really Work? by Kevin Roose, New York Times](https://www.nytimes.com/2023/03/28/technology/ai-chatbots-chatgpt-bing-bard-llm.html)  
+
+[How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models by Matthew Hutson, Nature](https://www.nature.com/articles/d41586-024-01314-y#:~:text=ChatGPT%20'think'%3F-,Psychology%20and%20neuroscience%20crack%20open%20AI%20large%20language%20models,are%20doing%2C%20how%20and%20why.&text=Matthew%20Hutson%20is%20a%20science%20writer%20based%20in%20New%20York%20City.)  
 
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/): This article explains how Zillow transformed their classic approach to Zestimate with Neural Network models.
 
