@@ -1,4 +1,14 @@
-**Complete these readings/videos before Friday class meeting**  
+** Explore these videos before Friday class meeting**
+[Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
+[2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE) 
+[Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
+[Manuela Veloso & RoboCup](https://www.youtube.com/watch?v=tAd1IeovyY8)  
+[Google DeepMind: Ground-breaking AlphaGo masters the game of Go](https://www.youtube.com/watch?v=SUbqykXVx0A)  
+[The Computer that Mastered Go](https://www.youtube.com/watch?v=g-dKXOlsf98)  
+[Nobel Prize lecture: Demis Hassabis, Nobel Prize in Chemistry 2024](https://www.youtube.com/watch?v=YtPaZsasmNA)  
+[Nobel Prize lecture: Geoffrey Hinton, Nobel Prize in Physics](https://www.youtube.com/watch?v=XDE9DjpcSdI)  
+
+**Explore these readings/videos before Friday class meeting**  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/): This interactive reading published by Amazon's Machine Learning University provides an accessible introduction to neural networks, which have revolutionized the field of artificial intelligence and are the backbone of popular algorithms today, such as ChatGPT, Stable-Diffusion, and many others.   
 
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI): An entirely non-technical explanation of Large Language Models.
