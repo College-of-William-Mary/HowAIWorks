@@ -9,10 +9,6 @@
 [Nobel Prize lecture: Geoffrey Hinton, Nobel Prize in Physics](https://www.youtube.com/watch?v=XDE9DjpcSdI): Geoffrey Hinton is considered godfather of AI  
 [Andrew Ng's TED Talk: How AI Could Empower Any Business](https://www.youtube.com/watch?v=reUZRyXxUs4): Andrew Ng runs AI Fund, DeepLearning.AI, and founded Coursera    
 
-**Explore vibe coding**
-[Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)  
-[AI-Generated App by Nina Lu](https://www.linkedin.com/feed/update/urn:li:activity:7298406603085545474/)  
-
 **Explore these readings/videos before Friday class meeting**  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/): This interactive reading published by Amazon's Machine Learning University provides an accessible introduction to neural networks, which have revolutionized the field of artificial intelligence and are the backbone of popular algorithms today, such as ChatGPT, Stable-Diffusion, and many others.   
 
@@ -25,6 +21,10 @@
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/): This article explains how Zillow transformed their classic approach to Zestimate with Neural Network models.
 
 [AI transformation playbook: How to lead your company into the AI era](https://landing.ai/case-studies/ai-transformation-playbook/): This playbook published by Landing AI draws on insights gleaned from their work with the Google Brain team and the Baidu AI Group as they transformed these companies into leaders in the AI era. 
+
+**Explore vibe coding**  
+[Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)  
+[AI-Generated App by Nina Lu](https://www.linkedin.com/feed/update/urn:li:activity:7298406603085545474/)  
 
 *Optional References*  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
