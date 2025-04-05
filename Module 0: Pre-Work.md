@@ -1,4 +1,4 @@
-**Explore these videos before Friday class meeting**  
+**Explore these videos**  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs): Fei-Fei Li is considered godmother of AI  
 [2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE)  
 [Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai): Yann Lecun is head of AI at Meta  
@@ -9,7 +9,7 @@
 [Nobel Prize lecture: Geoffrey Hinton, Nobel Prize in Physics](https://www.youtube.com/watch?v=XDE9DjpcSdI): Geoffrey Hinton is considered godfather of AI  
 [Andrew Ng's TED Talk: How AI Could Empower Any Business](https://www.youtube.com/watch?v=reUZRyXxUs4): Andrew Ng runs AI Fund, DeepLearning.AI, and founded Coursera    
 
-**Explore these readings/videos before Friday class meeting**  
+**Explore these readings**  
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI): An entirely non-technical explanation of Large Language Models.  
 [How Does Chatbot Really Work? by Kevin Roose, New York Times](https://www.nytimes.com/2023/03/28/technology/ai-chatbots-chatgpt-bing-bard-llm.html)  
 [How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models by Matthew Hutson, Nature](https://www.nature.com/articles/d41586-024-01314-y#:~:text=ChatGPT%20'think'%3F-,Psychology%20and%20neuroscience%20crack%20open%20AI%20large%20language%20models,are%20doing%2C%20how%20and%20why.&text=Matthew%20Hutson%20is%20a%20science%20writer%20based%20in%20New%20York%20City.)  
