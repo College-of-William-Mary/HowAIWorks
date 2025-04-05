@@ -1,4 +1,4 @@
-** Explore these videos before Friday class meeting**
+**Explore these videos before Friday class meeting**  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
 [2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE) 
 [Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
@@ -7,6 +7,10 @@
 [The Computer that Mastered Go](https://www.youtube.com/watch?v=g-dKXOlsf98)  
 [Nobel Prize lecture: Demis Hassabis, Nobel Prize in Chemistry 2024](https://www.youtube.com/watch?v=YtPaZsasmNA)  
 [Nobel Prize lecture: Geoffrey Hinton, Nobel Prize in Physics](https://www.youtube.com/watch?v=XDE9DjpcSdI)  
+
+**Explore vibe coding**
+[Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)  
+[AI-Generated App by Nina Lu](https://www.linkedin.com/feed/update/urn:li:activity:7298406603085545474/)  
 
 **Explore these readings/videos before Friday class meeting**  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/): This interactive reading published by Amazon's Machine Learning University provides an accessible introduction to neural networks, which have revolutionized the field of artificial intelligence and are the backbone of popular algorithms today, such as ChatGPT, Stable-Diffusion, and many others.   
