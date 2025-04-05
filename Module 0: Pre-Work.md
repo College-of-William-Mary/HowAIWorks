@@ -1,12 +1,12 @@
 **Explore these videos before Friday class meeting**  
-[Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
+[Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs): Fei-Fei Li is considered godmother of AI  
 [2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE) 
-[Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
-[Manuela Veloso & RoboCup](https://www.youtube.com/watch?v=tAd1IeovyY8)  
+[Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai): Yann Lecun is head of AI at Meta  
+[Manuela Veloso & RoboCup](https://www.youtube.com/watch?v=tAd1IeovyY8): Manuela Veloso is head of AI Research at JP Morgan  
 [Google DeepMind: Ground-breaking AlphaGo masters the game of Go](https://www.youtube.com/watch?v=SUbqykXVx0A)  
 [The Computer that Mastered Go](https://www.youtube.com/watch?v=g-dKXOlsf98)  
 [Nobel Prize lecture: Demis Hassabis, Nobel Prize in Chemistry 2024](https://www.youtube.com/watch?v=YtPaZsasmNA)  
-[Nobel Prize lecture: Geoffrey Hinton, Nobel Prize in Physics](https://www.youtube.com/watch?v=XDE9DjpcSdI)  
+[Nobel Prize lecture: Geoffrey Hinton, Nobel Prize in Physics](https://www.youtube.com/watch?v=XDE9DjpcSdI): Geoffrey Hinton is considered godfather of AI  
 
 **Explore vibe coding**
 [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)  
