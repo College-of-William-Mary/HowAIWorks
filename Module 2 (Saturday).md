@@ -1,27 +1,18 @@
-**Module 2 (Saturday)**  
+**Module 2 (Saturday - Still Under Construction)**  
 
 **Class 5: AI Business Canvas**  
 [Lecture: AI & Business Applications](https://www.dropbox.com/scl/fi/li79nbxyrsdjf8scevkbo/02-AI-Business-Applications.pptx?rlkey=2tc39us5y7su07b7cptolidmf&dl=0)  
 
 **Class 6: Vision**  
 [Teachable Machine](https://teachablemachine.withgoogle.com/train)  
-[Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
+
 [Yann Lecun's CNN demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)  
-[2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE)  
+ 
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 [Lecture: Vision](https://www.dropbox.com/scl/fi/i4346ypz6xegfjzbkfg1b/06-Vision.pptx?rlkey=wmu254svtsgz8jk82i6fwyro5&dl=0)  
 
 **Class 7 & 8	Team Work Time + Lunch**  
-See team project instructions in Blackboard  
-Team 1: MH1012  
-Team 2: MH1015  
-Team 3: MH1016  
-Team 4: MH1079  
-Team 5: MH1080  
-Team 6: MH1081  
-Team 7: MH1083  
-Team 8: MH1090  
-Team 9: MH2003
+See team project instructions in Blackboard
 
 **Class 9: Language & Recommenders**  
 [Lecture: Language & Recommenders](https://www.dropbox.com/scl/fi/7nqomcnku5m1l15ofp3fq/09-Language-Recommenders.pptx?rlkey=xefni0imqfio7im1fff30uzbz&dl=0)  
@@ -30,9 +21,6 @@ Team 9: MH2003
 **Class 10: Reinforcement Learning**  
 [Reinfrocement Learning by MLU](https://mlu-explain.github.io/reinforcement-learning/)  
 [RoboCup](https://www.robocup.org/a_brief_history_of_robocup)  
-[Manuela Veloso & RoboCup](https://www.youtube.com/watch?v=tAd1IeovyY8)  
-[Google DeepMind: Ground-breaking AlphaGo masters the game of Go](https://www.youtube.com/watch?v=SUbqykXVx0A)  
-[The Computer that Mastered Go](https://www.youtube.com/watch?v=g-dKXOlsf98)  
 [Lecture: Reinforcement Learning](https://www.dropbox.com/scl/fi/ayh4phgcp73f4bu45f694/10-RL.pptx?rlkey=lcyszq35n7uuuk6ycm7jmn24d&dl=0)  
 
 *References on Language Models*  
