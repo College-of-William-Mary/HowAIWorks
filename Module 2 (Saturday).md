@@ -24,7 +24,7 @@ See team project instructions in Blackboard
 [Lecture: Reinforcement Learning](https://www.dropbox.com/scl/fi/ayh4phgcp73f4bu45f694/10-RL.pptx?rlkey=lcyszq35n7uuuk6ycm7jmn24d&dl=0)  
 [Reinforcement Learning for Ecommerce @ Stitch Fix](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)  
 
-**AI Rsisks**
+**AI Rsisks**  
 [NIST AI Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf)  
 
 *References on Language Models*  
