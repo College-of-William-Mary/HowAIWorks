@@ -18,13 +18,13 @@
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/): This article explains how Zillow transformed their classic approach to Zestimate with Neural Network models.  
 [AI transformation playbook: How to lead your company into the AI era](https://landing.ai/case-studies/ai-transformation-playbook/): This playbook published by Landing AI draws on insights gleaned from their work with the Google Brain team and the Baidu AI Group as they transformed these companies into leaders in the AI era.  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
-[AI The Magic Box by Rachel Chung, Rani Bangarian, Peggy Chung, Danielle Seay, and Alisa Yang](https://a.co/d/6AWESTh)  
 
 **Explore vibe coding**  
 [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)  
 [AI-Generated App by Nina Lu](https://www.linkedin.com/feed/update/urn:li:activity:7298406603085545474/)  
 
 *Optional Fun Stuff*  
+[AI The Magic Box by Rachel Chung, Rani Bangarian, Peggy Chung, Danielle Seay, and Alisa Yang](https://a.co/d/6AWESTh)  
 [Neural network comic strip (Google Cloud)](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE)  
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s)  
 [Neural Networks & Deep Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=oV3ZY6tJiA0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=4)  
