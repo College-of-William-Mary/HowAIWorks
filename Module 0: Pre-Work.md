@@ -7,6 +7,7 @@
 [The Computer that Mastered Go](https://www.youtube.com/watch?v=g-dKXOlsf98)  
 [Nobel Prize lecture: Demis Hassabis, Nobel Prize in Chemistry 2024](https://www.youtube.com/watch?v=YtPaZsasmNA): Demis Hassabis is CEO of Google DeepMind    
 [Nobel Prize lecture: Geoffrey Hinton, Nobel Prize in Physics](https://www.youtube.com/watch?v=XDE9DjpcSdI): Geoffrey Hinton is considered godfather of AI  
+[Yann LeCun, Pioneer of AI, Thinks Today's LLM's Are Nearly Obsolete](https://www.newsweek.com/ai-impact-interview-yann-lecun-artificial-intelligence-2054237)  
 [Andrew Ng's TED Talk: How AI Could Empower Any Business](https://www.youtube.com/watch?v=reUZRyXxUs4): Andrew Ng runs AI Fund, DeepLearning.AI, and founded Coursera    
 
 **Explore these readings**  
