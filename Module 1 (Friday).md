@@ -13,7 +13,7 @@
 
 **Class 3: [JASP](https://jasp-stats.org/how-to-use-jasp/)**  
 
-**Class 4: Team Project: Prompt-a-thon**
+**Class 4: Team Project: Prompt-a-thon**  
 [Lecture: Team Project with Vibe Coding](https://www.dropbox.com/scl/fi/hklcdikx34hburo57kd8z/04-Team-Project-with-Vibe-Coding.pptx?rlkey=vtemey03pfw7eztuw1tik5v2i&dl=0)  
 
 *References*  
