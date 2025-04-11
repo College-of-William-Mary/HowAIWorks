@@ -16,6 +16,7 @@
 [How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models by Matthew Hutson, Nature](https://www.nature.com/articles/d41586-024-01314-y#:~:text=ChatGPT%20'think'%3F-,Psychology%20and%20neuroscience%20crack%20open%20AI%20large%20language%20models,are%20doing%2C%20how%20and%20why.&text=Matthew%20Hutson%20is%20a%20science%20writer%20based%20in%20New%20York%20City.)  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/): This interactive reading published by Amazon's Machine Learning University provides an accessible introduction to neural networks, which have revolutionized the field of artificial intelligence and are the backbone of popular algorithms today, such as ChatGPT, Stable-Diffusion, and many others.  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/): This article explains how Zillow transformed their classic approach to Zestimate with Neural Network models.  
+[Case Study: Reinforcement Learning for Ecommerce @ Stitch Fix](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)  
 [AI transformation playbook: How to lead your company into the AI era](https://landing.ai/case-studies/ai-transformation-playbook/): This playbook published by Landing AI draws on insights gleaned from their work with the Google Brain team and the Baidu AI Group as they transformed these companies into leaders in the AI era.  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 
