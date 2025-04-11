@@ -1,9 +1,6 @@
 **Module 2 (Saturday - Still Under Construction)**  
 
-**Class 5: AI Business Canvas**  
-[Lecture: AI & Business Applications](https://www.dropbox.com/scl/fi/li79nbxyrsdjf8scevkbo/02-AI-Business-Applications.pptx?rlkey=2tc39us5y7su07b7cptolidmf&dl=0)  
-
-**Class 6: Vision**  
+**Class __: Vision**  
 [Teachable Machine](https://teachablemachine.withgoogle.com/train)  
 
 [Yann Lecun's CNN demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)  
@@ -14,17 +11,14 @@
 **Class 7 & 8	Team Work Time + Lunch**  
 See team project instructions in Blackboard
 
-**Class 9: Language & Recommenders**  
+**Class ___: Language & Recommenders**  
 [Lecture: Language & Recommenders](https://www.dropbox.com/scl/fi/7nqomcnku5m1l15ofp3fq/09-Language-Recommenders.pptx?rlkey=xefni0imqfio7im1fff30uzbz&dl=0)  
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)   
 
-**Class 10: Reinforcement Learning**  
-[Reinfrocement Learning by MLU](https://mlu-explain.github.io/reinforcement-learning/)  
-[RoboCup](https://www.robocup.org/a_brief_history_of_robocup)  
-[Lecture: Reinforcement Learning](https://www.dropbox.com/scl/fi/ayh4phgcp73f4bu45f694/10-RL.pptx?rlkey=lcyszq35n7uuuk6ycm7jmn24d&dl=0)  
+**Class 10: Reinforcement Learning**   
 [Reinforcement Learning for Ecommerce @ Stitch Fix](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)  
 
-**AI Rsisks**  
+**AI Risks**  
 [NIST AI Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf)  
 
 *References on Language Models*  
