@@ -12,7 +12,6 @@
 [Lecture: How DL Works Part #2](https://www.dropbox.com/scl/fi/9glmo6vltnnbkyuqyqlj5/02-2-How-DL-Works-Part-2-SP25.pptx?rlkey=y6e6ad1wdm8cn3ldyuq9fjqyo&dl=0)
 
 **Class 3: [JASP](https://jasp-stats.org/how-to-use-jasp/)**  
-[JASP In-Class Exercise: Predicting Customer Churn](https://docs.google.com/document/d/1MoNavSD08r4TSYkjyO4iZ4AGGG-wJ84H7P7K5doi5qk/edit)  
 
 **Class 4: Team Project: Prompt-a-thon**
 [Lecture: Team Project with Vibe Coding](https://www.dropbox.com/scl/fi/hklcdikx34hburo57kd8z/04-Team-Project-with-Vibe-Coding.pptx?rlkey=vtemey03pfw7eztuw1tik5v2i&dl=0)  
