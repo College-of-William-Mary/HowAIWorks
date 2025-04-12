@@ -7,7 +7,7 @@
 [OPTIONAL Colab: DL with MNIST data](https://colab.research.google.com/drive/1UpkFhSpWIBNahzRro5aHdZCTZ32mEfl8?usp=sharing)  
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 
-**Class 6 + 7: Language**
+**Class 6 + 7: Language**  
 [Lecture: Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/5syj8l2q1gl30tuxy5qce/M3-1-featurizing-documents-digitally.pptx?rlkey=nnl9c7yzx9jujhd89rw9xnmcr&dl=0)   
 [Tiktokenizer](https://tiktokenizer.vercel.app/): Online playground for openai/tiktoken, calculating the correct number of tokens for a given prompt  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
