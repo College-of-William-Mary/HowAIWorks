@@ -20,11 +20,12 @@
 See team project instructions in Blackboard
 
 **Class 9: Recommenders + AI Business Canvas**  
-Coming Soon
+[Lecture: Recommenders](https://www.dropbox.com/scl/fi/exssme63gnge976oe8u9e/09-recommenders.pptx?rlkey=q00bk9ozgfa0jgani70znjada&dl=0)]  
+[Lecture: AI Business Canvas](https://www.dropbox.com/scl/fi/li79nbxyrsdjf8scevkbo/09-AI-Business-Canvas.pptx?rlkey=2tc39us5y7su07b7cptolidmf&dl=0)  
 [Reinforcement Learning for Ecommerce @ Stitch Fix](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)  
 
-**Responsibility, Safety, & Risks**  
-[NIST AI Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf)  
+**Class 10**
+Zestimate Worksheet Review
 
 *References on Language Models*  
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
